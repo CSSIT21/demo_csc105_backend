@@ -1,0 +1,16 @@
+{
+  "name": "csc105_basic_backend",
+  "version": "1.0.0",
+  "description": "csc105 basic backend workshop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql2": "^3.2.0",
+    "nodemon": "^2.0.22"
+  }
+}
